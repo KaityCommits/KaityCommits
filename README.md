@@ -5,7 +5,7 @@ Heyy, I'm Kaitlyn or Kaity!
 
 💻 Software Engineer | 🚀 Building Cool Projects | 📚 Lifelong Learner
 
-HTML | CSS | JavaScript | React (soon!) – Bringing ideas to life in the browser 🌱
+HTML | CSS | JavaScript | React (soon!) – Bringing ideas to life 🌱
 
 
 <!--Here are some ideas to get you started:
