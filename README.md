@@ -1,11 +1,8 @@
-## Hi there 👋
-
-
-Heyy, I'm Kaitlyn or Kaity!
+## Hey, I'm Kaitlyn!
 
 💻 Software Engineer | 🚀 Building Cool Projects | 📚 Lifelong Learner
 
-HTML | CSS | JavaScript | React (soon!) – Bringing ideas to life 🌱
+HTML | CSS | JavaScript | Node | React (soon!) – Bringing ideas to life 🌱
 
 
 <!--Here are some ideas to get you started:
